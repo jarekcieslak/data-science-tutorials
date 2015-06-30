@@ -4,10 +4,6 @@ import oauth2 as oauth
 import urllib2 as urllib
 
 
-api_key = "L6kqlxzm2L9PIjFv0iWHniwAY"
-api_secret = "H0r0Amcd14uYdYQ4cEp5G6UogrHjYmxVGtOEjTuAzlZmYRDTz8"
-access_token_key = "937162718-CTaDSmfLom580ANJYPCvzN5yyzV6fuQl0AXKWMrm"
-access_token_secret = "p0eze7XDjaFlqPpRdl7YVc6Qm9wAE2PPvektdn5PCtRDQ"
 
 _debug = 0
 
