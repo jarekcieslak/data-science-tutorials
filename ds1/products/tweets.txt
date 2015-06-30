@@ -1,0 +1,51 @@
+2 = [u'RT', u'@samzy991:', u'I', u'liked', u'a', u'@YouTube', u'video', u'from', u'@iamironwolf', u'http://t.co/M2U3awa6kI', u'DirectX', u'Show', u'-', u'Microsoft', u'Acquiring', u'AMD??,']
+1 = [u'Looking', u'for', u'a', u'replacement', u'solution', u'for', u'Microsoft', u'TMG?', u'Join', u'our', u'webinar', u'on', u'Friday', u'July', u'3', u'http://t.co/bhEwRciP2Q', u'@KEMPtech', u'@SysTechITSol']
+2 = [u'RT', u'@GrubKiller01:', u'I', u'liked', u'a', u'@YouTube', u'video', u'from', u'@iamironwolf', u'http://t.co/oTujnnY65H', u'DirectX', u'Show', u'-', u'Microsoft', u'Acquiring', u'AMD??,']
+4 = [u"Microsoft's", u'search', u'engine', u'Bing', u'has', u'predicted', u'whether', u'Andy', u'Murray', u'will', u'win', u'Wimbledon', u'http://t.co/HWOMdZc30l', u'http://t.co/fBeWJGlzKw']
+
+1 = [u'"Microsoft\u2019s', u'increased', u'focus', u'on', u'our', u'strengths:', u'in', u'this', u'case', u'search"', u'Search?', u'Strength?', u'Have', u'you', u'SEEN', u'Bing!?', u'#SoDenial', u'http://t.co/5SJ3qMks09']
+
+1 = [u'RT:', u'http://t.co/NG5btdsU8v', u'#webinar', u'Looking', u'for', u'a', u'replacement', u'solution', u'for', u'Microsoft', u'TMG?', u'Join', u'our', u'webinar', u'on', u'Friday', u'July', u'3', u'\u2026']
+
+6 = [u'"Microsoft', u"Research's", u'latest', u'project', u'wants', u'to', u'help', u'you', u'be', u'funnier', u'in', u'online', u'chats"', u'http://t.co/M2bKUdsq3w', u'http://t.co/e9hrW6NQHf']
+
+1 = [u'RT', u'@theappseclab:', u'Remember', u'the', u'Indian', u'CA', u'hack', u'from', u'July', u'2014', u'http://t.co/tHSpcsujCe.', u'Microsoft', u'added', u'CCA', u'India', u'back', u'in', u'the', u'trust', u'store.', u'htt\u2026']
+
+2 = [u'RT', u'@DigitalTrends:', u'Uber', u'picks', u'up', u'part', u'of', u'Bing', u'and', u'100', u'Microsoft', u'employees', u'to', u'bolster', u'its', u'mapping', u'technology:', u'In', u'a', u'move', u'to', u'help', u'it...', u'http:/\u2026']
+
+3 = [u'Now', u'You', u'Can', u'Effectively', u'Get', u'An', u'Xbox', u'One', u'For', u'$199.99:', u'You', u'can', u'say', u'this', u'about', u'Microsoft:', u'they', u'love', u'thei...', u'http://t.co/NFZbV3Wsth', u'#XboxOne']
+
+3 = [u'Microsoft', u'Research', u'has', u'come', u'up', u'with', u'a', u'neat', u'new', u'web-based', u'chat', u'system', u'titled', u'"Cahoots".', u"It's", u'an', u'interesting', u'solution', u'for', u'those', u'who', u'require', u'a\u2026']
+
+3 = [u'Microsoft', u'wants', u'to', u'turn', u'Minecraft', u'into', u'an', u'educational', u'tool:', u'Minecraft', u'is', u'arguably', u'the', u"world's", u'most', u'popular', u'vid...', u'http://t.co/88G2wN8LlZ']
+
+1 = [u'Microsoft', u'is', u'going', u'through', u'some', u'big', u'changes', u'right', u'now:', u'it', u'just', u'sold', u'part', u'of', u'Bing', u'Maps', u'directly', u'to', u'Uber', u'and', u'it...', u'http://t.co/8XAvosXjKc']
+
+3 = [u'The', u'latest', u'updates', u'on', u"Microsoft'", u'most', u'popular', u'OS', u'Since', u'this', u'review', u'was', u'originally', u'published,', u'Windows', u'7', u'has', u'been...', u'http://t.co/VZN8lQWXFt']
+
+3 = [u'Review:', u'Updated:', u'Windows', u'7', u'-', u'Review:', u'Updated:', u'Windows', u'7The', u'latest', u'updates', u'on', u'Microsoft\u2019', u'most', u'popular', u'OS...', u'http://t.co/BySPEMlANH']
+
+3 = [u'Any1', u'want', u'to', u'trade', u'$50', u'Microsoft', u'gift', u'card', u'for', u'$40', u'PayPal', u'money?', u'@ShoutRTs', u'@GamerRTer']
+
+3 = [u'RT', u'@BLackiie_MLG:', u'Any1', u'want', u'to', u'trade', u'$50', u'Microsoft', u'gift', u'card', u'for', u'$40', u'PayPal', u'money?', u'@ShoutRTs', u'@GamerRTer']
+
+3 = [u'RT', u'@BLackiie_MLG:', u'Any1', u'want', u'to', u'trade', u'$50', u'Microsoft', u'gift', u'card', u'for', u'$40', u'PayPal', u'money?', u'@ShoutRTs', u'@GamerRTer']
+
+2 = [u'@xiotex', u'@developconf', u'-', u'That', u'is', u'fantastic,', u"You're", u'a', u'one', u'man', u'team', u'and', u'your', u'marketing', u'is', u'more', u'effective', u'on', u'me', u'that', u'Nintendo,', u'Sony', u'and', u'Microsoft']
+
+6 = [u'Microsoft', u'Research\u2019s', u'latest', u'project', u'wants', u'to', u'help', u'you', u'be', u'funnier', u'in', u'online', u'chats', u'http://t.co/KD7aKiju5S']
+
+2 = [u'RT', u'@orangebusiness:', u'transformation', u'with', u'Microsoft', u'Lync', u'-', u'6', u'step', u'guide', u'to', u'deployment', u'success', u'http://t.co/0J3wHigRgL', u'via', u'@orangebusiness', u'http\u2026']
+
+2 = [u'Microsoft', u'might', u'be', u'interested', u'in', u'buying', u'AMD', u'http://t.co/9BO8z7bP1e']
+
+4 = [u'Microsoft', u'wants', u'to', u'make', u'you', u'funnier', u'in', u'online', u'chats', u'http://t.co/lYilczkdv3']
+
+6 = [u'#Apple', u'#Mobile', u'#Apps', u'Microsoft', u"Research's", u'latest', u'project', u'wants', u'to', u'help', u'you', u'be', u'funnier', u'in\u2026', u'http://t.co/YlzgVBnYhR']
+
+2 = [u'Is', u'this', u'some', u'kind', u'of', u'trolling', u'or', u'what?', u'#SonyPurchaseofXbox', u'https://t.co/ep3lFGDpLV']
+
+6 = [u'Microsoft', u"Research's", u'latest', u'project', u'wants', u'to', u'help', u'you', u'be', u'funnier', u'in', u'online', u'chats', u'http://t.co/APB41Tct85']
+
+2 = [u'RT', u'@tomwarren:', u'Microsoft', u'to', u'buy', u'AMD?', u'That', u'would', u'be', u'surprising', u'for', u'a', u'software', u'company', u'that', u'increasingly', u'looks', u'more', u'like', u'a', u'software', u'company']
+
