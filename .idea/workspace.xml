@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/MapReduce.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/data/books.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/data/dna.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/dna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/friend_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/friend_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/data/friends.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/inverted_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/mapred_join.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/data/matrix.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/matrix_multi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/data/records.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ds3/wordCount.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ds1/git/coursera-datascie-UWash" afterPath="$PROJECT_DIR$/ds1/git/coursera-datascie-UWash" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ds1/ds1-get-tweets.py" afterPath="$PROJECT_DIR$/ds1/ds1-get-tweets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="data-science-learning.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435678706680" ignored="false" />
+    <file path="/Dummy.txt" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435678973495" ignored="false" />
+    <file path="/wordCount.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435680164479" ignored="false" />
+    <file path="/inverted_index.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435680745297" ignored="false" />
+    <file path="/mapred_join.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435682532747" ignored="false" />
+    <file path="/friend_count.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435780042234" ignored="false" />
+    <file path="/friend_list.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435836899766" ignored="false" />
+    <file path="/dna.py" changelist="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" time="1435839348325" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +47,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ds1-get-tweets.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ds1/ds1-get-tweets.py">
+      <file leaf-file-name="matrix_multi.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ds3/matrix_multi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.08939213">
+            <state line="31" column="40" selection-start="705" selection-end="705" vertical-scroll-proportion="0.5555556">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,12 +75,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/ds1/ds1-get-tweets.py" />
+        <option value="$PROJECT_DIR$/ds1/MapReduce.py" />
+        <option value="$PROJECT_DIR$/ds3/MapReduce.py" />
+        <option value="$PROJECT_DIR$/ds3/wordCount.py" />
+        <option value="$PROJECT_DIR$/ds3/mapred_join.py" />
+        <option value="$PROJECT_DIR$/ds3/inverted_index.py" />
+        <option value="$PROJECT_DIR$/ds3/friend_count.py" />
+        <option value="$PROJECT_DIR$/ds3/friend_list.py" />
+        <option value="$PROJECT_DIR$/ds3/dna.py" />
+        <option value="$PROJECT_DIR$/ds3/matrix_multi.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="54" />
+    <option name="x" value="20" />
+    <option name="y" value="23" />
     <option name="width" value="1660" />
     <option name="height" value="985" />
   </component>
@@ -85,6 +119,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,23 +138,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data-science-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data-science-learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ds1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,13 +147,108 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/BLUESOFT/_svn/Zoetis/Zoetis_Play/4_Implmentacja/trunk/web" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ds3/data" />
+      <recent name="$PROJECT_DIR$/ds3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ds3" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-science-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-science-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-science-learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2d42424f-e72b-4b58-9c2d-b3672f7d7faf" name="Default" comment="" />
@@ -143,26 +258,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="54" width="1660" height="985" extended-state="0" />
-    <editor active="true" />
+    <frame x="20" y="23" width="1660" height="985" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496902" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2527881" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -197,7 +312,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -226,9 +341,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ds1/ds1-get-tweets.py">
+    <entry file="file://$PROJECT_DIR$/datasci_course_materials/assignment1/term_sentiment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.08939213">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/wordCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="510" selection-end="510" vertical-scroll-proportion="0.53763443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/inverted_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.53763443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/data/records.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.16875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/mapred_join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="31" selection-start="579" selection-end="579" vertical-scroll-proportion="0.5555556">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasci_course_materials/assignment3/solutions/asymmetric_friendships.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="16" selection-start="2" selection-end="16" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasci_course_materials/assignment3/data/friends.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="138" selection-end="152" vertical-scroll-proportion="0.11435832">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/friend_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="445" selection-end="445" vertical-scroll-proportion="0.48387095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/MapReduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="721" selection-end="721" vertical-scroll-proportion="0.50179213">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasci_course_materials/assignment3/solutions/multiply.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="183" selection-end="183" vertical-scroll-proportion="0.2398524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/friend_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="33" selection-start="0" selection-end="578" vertical-scroll-proportion="0.44802868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/data/friends.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="64" selection-end="64" vertical-scroll-proportion="0.036900368">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/data/matrix.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/dna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.14336918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/data/dna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="34" selection-start="3937" selection-end="3937" vertical-scroll-proportion="0.01875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds3/matrix_multi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="40" selection-start="705" selection-end="705" vertical-scroll-proportion="0.5555556">
           <folding />
         </state>
       </provider>
